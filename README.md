@@ -5,7 +5,7 @@ Firebase in all services React Js.
 
 - 🌱 I’m currently learning React Js ...
 - 💬 Ask me about HTML-HTML5 , CSS-CSS3 , Javascript and Advanced Javascript (ES6),Bootstrap-Twitter , Bootstrap-4,Firebase
-- 📫 How to reach me: Facebook,twitter, [Linkedin](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) ,Email
+- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100012849786258),[Twitter](https://twitter.com/jskhan211),[Linkedin](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) ,[Email](jskhan211@gmail.com)
 
 🚀 Some of my main projects:
 - FinanceApp it is 1 Hackathon web development course which is developed by using
