@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am Jaseem Khan professional Web Developer in specialize in coding, functionality, programming and UI.Having
-continuously learning and working of these technology like advanced javascript ES6 and
-Firebase in all services React Js Python-3.
+I am Jaseem Khan professional Web Developer in specialize advanced web developement technologies.Continuously learning and working of these technology like advanced javascript ES6,Firebase,React Js and Python-3 extra.
 
 - 🌱 I’m currently learning React Js
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
@@ -9,7 +7,6 @@ Firebase in all services React Js Python-3.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100012849786258),[Twitter](https://twitter.com/jskhan211),[Linkedin](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) ,[Email](jskhan211@gmail.com)
 
 🚀 Some of my main projects:
-- [FinanceApp](https://finance-app-e0475.web.app/l) it is 1 Hackathon web development course which is developed by using Firebase services authentication, database, storage, Hosting Firestore-Cloud and
-javascript(ES6) Bootstrap-4 and jquery
+- [FinanceApp](https://finance-app-e0475.web.app/l) it is first Hackathon web development course this App which is developed by using Firebase services authentication, database, storage, Hosting Firestore-Cloud and javascript(ES6) Bootstrap-4 and jquery
 - [TodoApp](https://jaseemkhan211.github.io/TodoApp/) in Javascript(ES6)
 
