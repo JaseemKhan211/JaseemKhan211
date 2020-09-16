@@ -3,6 +3,7 @@ I am Jaseem Khan professional Web Developer in specialize advanced web developem
 
 - 🌱 I’m currently learning React Js
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
+
 - Tools & Technologies I Use 💻
 - ✅ HTML-HTML5 | CSS-CSS3 | Flex-Boxes CSS | Responsive Design
 - ✅ Bootstrap-4 | Bootstrap-Twitter | React-Bootstrap | Material UI
@@ -11,6 +12,7 @@ I am Jaseem Khan professional Web Developer in specialize advanced web developem
 - ✅ React Js with React-Router | Redux | Redux Pagination | Redux Thunk and Hooks
 - ✅ Version Controlling System using Github
 - ✅ Others Windows | Linux | Ubuntu and a few others
+
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100012849786258), [Twitter](https://twitter.com/jskhan211), [Linkedin](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) ,[Email](jskhan211@gmail.com)
 
 🚀 Some of my main projects:
