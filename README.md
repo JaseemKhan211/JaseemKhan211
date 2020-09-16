@@ -2,7 +2,7 @@
 I am Jaseem Khan professional Web Developer in specialize advanced web developement technologies.Continuously learning and working of these technology like advanced javascript ES6, Firebase, React Js and Python-3 extra.
 
 - 🌱 I’m currently learning React Js
-- 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
+  👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
 
 - Tools & Technologies I Use 💻
 - ✅ HTML-HTML5 | CSS-CSS3 | Flex-Boxes CSS | Responsive Design
