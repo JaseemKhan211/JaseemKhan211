@@ -7,7 +7,7 @@ I am Jaseem Khan professional Web Developer in specialize advanced web developem
 - Tools & Technologies I Use 💻
 - HTML-HTML5 | CSS-CSS3 | Flex-Boxes CSS | Responsive Design
 - Bootstrap-4 | Bootstrap-Twitter | React-Bootstrap | Material UI
-- JavaScript | ES2015+ | Spread Operator | Exception handling or Error handling ( async await )
+- JavaScript | ES2015+ | Spread Operator | Exception handling or Error handling
 - Firebase Authentication | Cloud Firestore | Cloud-Storage | Hosting
 - React Js with React-Router | Redux | Redux Persist | Redux Thunk and Hooks
 - Version Controlling System using Github
