@@ -6,7 +6,7 @@ I am Jaseem Khan professional Frontend Web Developer specialize in advanced web 
 
 - I have experience working with the following technologies / concepts: 💻
 - Front-end-Core: HTML-HTML5, CSS-CSS3, Javascript ES6, React JS, Redux, Rourting
-- Front-end-Frameworks & Libraries: Bootstrap-4, Bootstrap-Twitter, React-Bootstrap, Bootstrap-Pagination, Bootstrap-Modal, Material UI, Flex-Box
+- Front-end-Frameworks & Libraries: Bootstrap-4, Bootstrap-Twitter, React-Bootstrap, Bootstrap-Pagination, Bootstrap-Modal, Flex-Box
 - Applications or IDE used: VS Code, Sublime Text 3, Atom, Notepad++, Jupyter Notebook, Office 
 - Database: Firebase
 - Graphic Designer: Adobe illustrator CC, Adobe Photoshop CC
