@@ -15,9 +15,9 @@ I am Jaseem Khan professional Frontend Web Developer specialize in advanced web 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100012849786258), [Twitter](https://twitter.com/jskhan211), [Linkedin](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) ,[Email](jskhan211@gmail.com)
 
 🚀 Some of my main projects:
-- [FinanceApp](https://finance-app-e0475.web.app/l) it is first Hackathon web development course this App which is developed by using Firebase services authentication, database,   storage, Hosting Firestore-Cloud and javascript(ES6) Bootstrap-4 and jquery
-- [Q App](https://q-app-b2861.web.app/) it is second Hackathon web development course this App which is currently working by using React Js, React-Hooks, React-Rourting, React-Redux, Firebase services authentication, authentication with Facebook, Facebook Developer, database, Hosting, Firestore-Cloud, javascript ES6, Foursquare API, Bootsrap-4, React-Bootstrap, BootstrapModal and Bootstrap-pagination
-- [TodoApp](https://jaseemkhan211.github.io/TodoApp/) in Javascript(ES6)
-- Todo App in React Js
-- Employee App in React Js 
+- [FinanceApp](https://finance-app-e0475.web.app/l) it is first Hackathon web development course this App which is developed by using Firebase services authentication, database, storage, Hosting, Firestore-Cloud, javascript ES6, Bootstrap-4, Bootstrap-Table, Bootrstrap-Navbar, Bootstrap-Slide-Menu Bar, chart and jquery  
+- [Q App](https://q-app-b2861.web.app/) it is second Hackathon web development course this App which is developed     by using React Js, React-Hooks, useState, useEffect, useParams, React-Rourting, useHistory, React-Redux, React Notifications, Firebase services authentication, authentication with Facebook, Facebook Developer, database, Hosting, Firestore-Cloud, javascript ES6, exceptional handling or error handling (async-await), javascript front-end searching, javascript front-end pagination, Foursquare API, map integrate, Bootsrap-4, React-Bootstrap, Bootstrap-Modal , pagination and floating action button
+- Employee App it is Assignment web development course this App which is developed by using React Js, React-Hooks, useState, parent to child to child data passing, React conditional-rendering, Bootstrap-4, Bootstrap-Table, and floating action button
+- Todo App it is simple project this App which is developed by using React Js, React-Hooks, useState
+- [TodoApp](https://jaseemkhan211.github.io/TodoApp/) in Javascript(ES6) 
 
