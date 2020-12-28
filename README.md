@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Jaseem Khan professional Web Developer specialize in advanced web developement technologies.Continuously learning and working of these technology like React Js, React-Native, Node Js advanced javascript ES6, Javascript Object Oriented Programming (OOP), Progressive Web App (PWA) and Firebase etc.
+I am Jaseem Khan professional Web Developer with the working experience of React Js, React-Native, Firebase, advanced Javascript ES6 & Javascript Object Oriented Programming (OOP) etc.
 
 - 🌱 I’m currently learning: Node Js
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
