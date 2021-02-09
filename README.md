@@ -24,8 +24,8 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 <img align="left" alt="Python" width="30px" src="https://magenta.tensorflow.org/assets/groovae/colab.jpg" />
 
 <br />
+<br />
 
-### 📫 How to reach me:
-
-<img align="left" alt="Twitter | (https://twitter.com/jskhan211)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+### How to reach me:
+<img align="left" alt="Twitter" width="22px" href="https://twitter.com/jskhan211" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
