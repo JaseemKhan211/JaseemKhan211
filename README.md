@@ -1,18 +1,24 @@
-### Hi there 👋
-I am Jaseem Khan professional Web Developer with the working experience of React Js, React-Native, Firebase, advanced Javascript ES6 & Javascript Object Oriented Programming (OOP) etc.
+### Hi there I'm [Jaseem Khan](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) 👋
+A Professional Web Developer with 4 months of working experience of Web Development, specialize in advanced web development technologies like React Js, React-Native, JavaScript ES6 and Firebase.
 
 - 🌱 I’m currently learning: Node Js
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
+- ⚡ Fun fact: I love to
 
 - I have experience working with the following technologies / concepts: 💻
-- Front-end-Core: HTML-HTML5, CSS-CSS3, React JS, React-Native, Javascript ES6, Javascript Object Oriented Programming (OOP), Progressive Web App (PWA), Javascript Browses Objects Models (BOM) 
+- Front-end-Core:
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 - Front-end-Frameworks & Libraries: Bootstrap-4, Bootstrap-Twitter, React-Bootstrap, Bootstrap-Pagination, Bootstrap-Modal, Flex-Box, Sweet-Alert, Material UI, React Js, React-Hooks, React-Rourting, React-Redux, React Native, expo-cli, React-Navigation
-- Back-end: Node Js
+- Back-end: [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 - Database: Firebase
 - Applications or IDE used: Android Studio App, expo-cli, Snack, Google-Colab, VS Code, Sublime Text 3, Atom, Notepad++, Jupyter Notebook, Office  
 - Hosting: Firebase, Heroku
 - Graphic Designer: Adobe illustrator CC, Adobe Photoshop CC
-- Version Controlling System: Github
+- Version Controlling System: [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 - Others: Python, Data Structure, Windows forms Application, Windows, Linux-Ubuntu and a few others
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100012849786258), [Twitter](https://twitter.com/jskhan211), [Linkedin](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) ,[Email](jskhan211@gmail.com)
 
