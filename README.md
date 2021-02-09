@@ -27,9 +27,9 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 <br />
 <br />
 
-<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
-<img align="left" alt="Ubuntu" width="30px" src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo.png" />
-<img align="left" alt="Ubuntu" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpufCB5fUnjUjqhNFZySltK_VYUcH5Y8vqA&usqp=CAU"/>
+<img align="right" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+<img align="right" alt="Ubuntu" width="30px" src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo.png" />
+<img align="right" alt="Ubuntu" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpufCB5fUnjUjqhNFZySltK_VYUcH5Y8vqA&usqp=CAU"/>
 
 <br />
 <br />
