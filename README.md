@@ -11,8 +11,6 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-- ### Front End Core:
-<img align="left" alt="Bootstrap" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgYgvDb1PlbxD5SlT9IfIb8faD3mkEJybMg&usqp=CAU" />
+<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/bootstrap.png" />
 
 
