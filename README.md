@@ -11,6 +11,6 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/bootstrap.png" />
+<img align="left" alt="Bootstrap" width="30px" src="https://banner2.cleanpng.com/20180519/ylj/kisspng-responsive-web-design-web-development-bootstrap-ca-5b0055a1645a43.7962106715267485774111.jpg" />
 
 
