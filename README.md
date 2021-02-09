@@ -26,8 +26,8 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 
 <br />
 
-<img align="left" alt="Flexbox" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pg2h98Nr--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/o7tc37gjl7vy7t843rfk.jpg" />
-<img align="left" alt="Adobe PhotoShop" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57o496OQRfofX5sSeRSuMG-l8RMPQHF1wRQ&usqp=CAU" />
+<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+<img align="left" alt="Ubuntu" width="30px" src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo.png" />
 
 <br />
 <br />
