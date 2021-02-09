@@ -20,4 +20,6 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 <img align="left" alt="React-Router" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-router.svg" />
 <img align="left" alt="Sublime Text 3" width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
 <img align="left" alt="Firebase" width="30px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
+<img align="left" alt="Python" width="30px" src="https://backtrace.io/for/_images/python.svg" />
+<img align="left" alt="Python" width="30px" src="https://magenta.tensorflow.org/assets/groovae/colab.jpg" />
 
