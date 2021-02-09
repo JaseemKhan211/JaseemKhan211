@@ -22,11 +22,11 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 <img align="left" alt="Python" width="30px" src="https://backtrace.io/for/_images/python.svg" />
 <img align="left" alt="Python" width="30px" src="https://magenta.tensorflow.org/assets/groovae/colab.jpg" />
 <img align="left" alt="Adobe illustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" />
+<img align="left" alt="Adobe PhotoShop" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57o496OQRfofX5sSeRSuMG-l8RMPQHF1wRQ&usqp=CAU" />
 
 <br />
 
-<img align="left" alt="Adobe PhotoShop" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57o496OQRfofX5sSeRSuMG-l8RMPQHF1wRQ&usqp=CAU" />
-<img align="left" alt="Adobe PhotoShop" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57o496OQRfofX5sSeRSuMG-l8RMPQHF1wRQ&usqp=CAU" />
+<img align="left" alt="Flexbox" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pg2h98Nr--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/o7tc37gjl7vy7t843rfk.jpg" />
 <img align="left" alt="Adobe PhotoShop" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57o496OQRfofX5sSeRSuMG-l8RMPQHF1wRQ&usqp=CAU" />
 
 <br />
