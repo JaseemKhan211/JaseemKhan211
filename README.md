@@ -24,6 +24,7 @@ A Professional Web Developer with 4 months of working experience of Web Developm
 <img align="left" alt="Python" width="30px" src="https://magenta.tensorflow.org/assets/groovae/colab.jpg" />
 <img align="left" alt="Adobe illustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" />
 <br />
+<br />
 <img align="left" alt="Adobe PhotoShop" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57o496OQRfofX5sSeRSuMG-l8RMPQHF1wRQ&usqp=CAU" />
 
 <br />
