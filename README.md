@@ -1,5 +1,5 @@
 ### Hi there I'm [Jaseem Khan](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) 👋
-A Professional Web Developer with 4 months of working experience of Web Development, specialize in advanced web development technologies like React Js, React-Native, JavaScript ES6 and Firebase.
+A Professional Web Developer with 3 months of working experience of Web Development, specialize in advanced web development technologies like React Js, React-Native, JavaScript ES6 and Firebase.
 
 - 🌱 I’m currently learning: Node Js
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
