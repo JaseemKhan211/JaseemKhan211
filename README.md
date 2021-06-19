@@ -1,7 +1,7 @@
 ### Hi there I'm [Jaseem Khan](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) 👋
-A Professional Web Developer with 3 months of working experience of Web Development, specialize in advanced web development technologies like React Js, React-Native, JavaScript ES6 and Firebase.
+A Software Developer with working experience of building ERP applications by using Oracle database and Oracle Apex also specialize in advanced web development technologies like React Js, React-Native, JavaScript ES6 and Firebase.
 
-- 🌱 I’m currently learning: Node Js
+- 🌱 I’m currently learning: SQL/PLSQL
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
 - ⚡ Fun fact: I love to
 
@@ -31,6 +31,9 @@ A Professional Web Developer with 3 months of working experience of Web Developm
 [<img align="left" alt="Twitter" width="22px" href="https://twitter.com/jskhan211" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jskhan211)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jaseem-khan-4a4b98147/)
 [<img align="left" alt="Facebook" width="22px" src="https://toppng.com/uploads/preview/facebook-f-icon-facebook-logo-png-white-11563016108d1db9g68rk.png" />](https://www.facebook.com/profile.php?id=100012849786258)
+[<a href="https://dev.to/jaseemkhan211">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="JASEEM KHAN's DEV Community Profile" height="30" width="30">
+</a>]
 
 <br />
 <br />
