@@ -4,30 +4,22 @@ A Software Developer with working experience of building ERP applications by usi
 - 🌱 I’m currently learning: SQL, PL/SQL, JavaScript ES6
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
 - ⚡ Fun fact: I love to
-
 ### Languages and Tools:
-✔ SQL, PL/SQL
-✔ Oracle, Oracle Apex, Jasper Server
-✔ JavaScript ES6, jQuery, Ajax
-✔ React, Hooks, Router, Redux, React-Bootstrap, Sweet Alert, React-Native, React-Navigation
-✔ Firebase Database
-✔ HTML, CSS, CSS Media Queries, Flexbox, Bootstrap, Material Ui
-
-<br />
-
+✔ SQL, PL/SQL <br />
+✔ Oracle, Oracle Apex, Jasper Server <br />
+✔ JavaScript ES6, jQuery, Ajax <br />
+✔ React, Hooks, Router, Redux, React-Bootstrap, Sweet Alert, React-Native, React-Navigation <br />
+✔ Firebase Database <br />
+✔ HTML, CSS, CSS Media Queries, Flexbox, Bootstrap, Material Ui <br />
 ### Connect with me:
 Find my profile link here:
 https://www.linkedin.com/in/jaseem-khan-4a4b98147/ 
 <br />
 Email: jaseemkhandev@gmail.com
 
-<br />
-
 ### 📕 Blog: 
 - [React vs. Angular: The Complete Comparison](https://medium.com/@jskhan211/react-vs-angular-the-complete-comparison-8b6ee68e4e8e)
 - [Sweet Alert JavaScript Library With Oracle Apex](https://medium.com/@jskhan211/sweet-alert-javascript-library-with-oracle-apex-a8c082fa6e20)
-
-<br />
 
 🚀 Some of my main projects:
 - [Q App](https://q-app-b2861.web.app/) it is second Hackathon web development course this App which is developed     by using React Js, React-Hooks, useState, useEffect, useParams, React-Rourting, useHistory, React-Redux, React Notifications, Firebase services authentication, authentication with Facebook, Facebook Developer, database, Hosting, Firestore-Cloud, javascript ES6, exceptional handling or error handling (async-await), javascript front-end searching, javascript front-end pagination, Foursquare API, map integrate, Bootsrap-4, React-Bootstrap, Bootstrap-Modal , pagination and floating action button
