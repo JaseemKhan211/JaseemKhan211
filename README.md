@@ -11,11 +11,6 @@ A Software Developer with working experience of building ERP applications by usi
 ✔ React, Hooks, Router, Redux, React-Bootstrap, Sweet Alert, React-Native, React-Navigation <br />
 ✔ Firebase Database <br />
 ✔ HTML, CSS, CSS Media Queries, Flexbox, Bootstrap, Material Ui <br />
-### Connect with me:
-Find my profile link here:
-https://www.linkedin.com/in/jaseem-khan-4a4b98147/ 
-<br />
-Email: jaseemkhandev@gmail.com
 
 ### 📕 Blog: 
 - [React vs. Angular: The Complete Comparison](https://medium.com/@jskhan211/react-vs-angular-the-complete-comparison-8b6ee68e4e8e)
