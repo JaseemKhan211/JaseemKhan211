@@ -14,21 +14,19 @@ A Software Developer with working experience of building ERP applications by usi
 ✔ HTML, CSS, CSS Media Queries, Flexbox, Bootstrap, Material Ui
 
 <br />
-<br />
 
 ### Connect with me:
 Find my profile link here:
-https://www.linkedin.com/in/jaseem-khan-4a4b98147/
+https://www.linkedin.com/in/jaseem-khan-4a4b98147/ 
+<br />
 Email: jaseemkhandev@gmail.com
 
-<br />
 <br />
 
 ### 📕 Blog: 
 - [React vs. Angular: The Complete Comparison](https://medium.com/@jskhan211/react-vs-angular-the-complete-comparison-8b6ee68e4e8e)
 - [Sweet Alert JavaScript Library With Oracle Apex](https://medium.com/@jskhan211/sweet-alert-javascript-library-with-oracle-apex-a8c082fa6e20)
 
-<br />
 <br />
 
 🚀 Some of my main projects:
