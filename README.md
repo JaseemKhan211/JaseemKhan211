@@ -1,7 +1,8 @@
 ### Hi there I'm [Jaseem Khan](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) 👋
-A Software Developer with working experience of building ERP applications by using Oracle database and Oracle Apex also specialize in advanced web development technologies like React Js, React-Native, JavaScript ES6 and Firebase.
+I am an undergraduate student pursuing a BS degree in Computer Science at Sindh Madressatul Islam University (SMIU). 
+I have experience working as a Software Developer, where I have built ERP applications using Oracle database and Oracle Apex. Additionally, I specialize in advanced web development technologies such as React Js, React-Native, JavaScript ES6, and Firebase.
 
-- 🌱 I’m currently learning: SQL, PL/SQL, JavaScript ES6
+- 🌱 I’m currently learning: Node Js
 - 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
 - ⚡ Fun fact: I love to
 ### Languages and Tools:
