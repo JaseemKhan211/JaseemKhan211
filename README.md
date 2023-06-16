@@ -1,5 +1,5 @@
 ### Hi there I'm [Jaseem Khan](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) 👋
-I am an undergraduate student pursuing a BS degree in Computer Science at Sindh Madressatul Islam University (SMIU). 
+I am an undergraduate student pursuing a BS degree in Computer Science at Sindh Madressatul Islam University (SMIU). <br />
 I have experience working as a Software Developer, where I have built ERP applications using Oracle database and Oracle Apex. Additionally, I specialize in advanced web development technologies such as React Js, React-Native, JavaScript ES6, and Firebase.
 
 - 🌱 I’m currently learning: Node Js
