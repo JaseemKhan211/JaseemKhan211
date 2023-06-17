@@ -3,13 +3,13 @@ I am an undergraduate student pursuing a BS degree in Computer Science at Sindh 
 I have experience working as a Software Developer, where I have built ERP applications using Oracle database and Oracle Apex. Additionally, I specialize in advanced web development technologies such as React Js, React-Native, JavaScript ES6, and Firebase.
 
 - 🌱 I’m currently learning: Node Js
-- 👨‍💻 My working and learning here: [Codepen](https://codepen.io/jskhan211)
 - ⚡ Fun fact: I love to
+
 ### Languages and Tools:
 ✔ SQL, PL/SQL <br />
-✔ Oracle, Oracle Apex, Jasper Server <br />
+✔ Oracle, Oracle Apex <br />
 ✔ JavaScript ES6, jQuery, Ajax <br />
-✔ React, Hooks, Router, Redux, React-Bootstrap, Sweet Alert, React-Native, React-Navigation <br />
+✔ React, React-Bootstrap, Sweet Alert, React-Native, React-Navigation <br />
 ✔ Firebase Database <br />
 ✔ HTML, CSS, CSS Media Queries, Flexbox, Bootstrap, Material Ui <br />
 
