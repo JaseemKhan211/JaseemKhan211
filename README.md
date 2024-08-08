@@ -1,9 +1,6 @@
 ### Hi there I'm [Jaseem Khan](https://www.linkedin.com/in/jaseem-khan-4a4b98147/) 👋
 I am an undergraduate student pursuing a Bachelor of Computer Science at Sindh Madressatul Islam University (SMIU). I am a Software Developer with practical experience in developing ERP applications, finance applications, Help Desk Customer Care Centers, Customer Relationship Management (CRM) systems, Complaint Management Systems (CMS), and Asset Verification Tools. 
 
-- 🌱 I’m currently learning: Node Js
-- ⚡ Fun fact: I love to
-
 ### My expertise includes many technologies and concepts:
 ## Front End:
 ✔ JavaScript ES6 <br />
