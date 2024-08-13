@@ -30,7 +30,7 @@ I am an undergraduate student pursuing a Bachelor of Computer Science at Sindh M
 ✔ Heroku, Now & firebase Hosting <br />
 ✔ Git | GitHub <br />
 
-### 📕 Blog: 
+### 📕 Blogs: 
 - [Effortless Integration of Node.js with Oracle Database and Oracle APEX RESTful API Services: A Practical Approach](https://medium.com/@jaseemkhandev/effortless-node-js-and-oracle-database-integration-a-practical-approach-45900e1f1834)
 - [Rest Parameters (‘…args’) vs ‘arguments’ in JavaScript](https://medium.com/@jaseemkhandev/rest-parameters-args-vs-arguments-in-javascript-eab0b2b5e3b9)
 - [Updating Package-Lock File: npm Warns of an Outdated Version](https://medium.com/@jaseemkhandev/updating-package-lock-file-npm-warns-of-an-outdated-version-a7aeb71bfbe5)
