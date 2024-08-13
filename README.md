@@ -40,4 +40,5 @@
 - 🚀 [MindMingle Quiz](https://medium.com/@jaseemkhandev)
 - 🚀 [Complaint Managment System](https://medium.com/@jaseemkhandev)
 - 🚀 [Todo App](https://jaseemkhan211.github.io/TodoApp/)
+- 📝 [Todo App](https://jaseemkhan211.github.io/TodoApp/)
 
