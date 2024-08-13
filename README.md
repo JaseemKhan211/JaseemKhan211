@@ -1,7 +1,10 @@
 <h1 align="center">Helllooo! I'm <a href="https://linktr.ee/jaseemkhandev">Jaseem Khan</a> 👋</h1>
 <p align="center">I am an undergraduate student pursuing a Bachelor of Computer Science at Sindh Madressatul Islam University (SMIU). I am a Software Developer with practical experience in developing ERP applications, finance applications, Help Desk Customer Care Centers, Customer Relationship Management (CRM) systems, Complaint Management Systems (CMS), and Asset Verification Tools.</p>
 
-- 🔭 I’m currently working as a Senior Fullstack Engineer.
+- 🔭 I’m currently working as a Software Developer.
+- 🌱 I'm currently working in these skills SQL, PL/SQL, JavaScript, Oracle APEX and Oracle Database.
+- 🚀 I'm currently learning and working on my persolal project React JS, Node JS, Express JS and MongoDB
+- 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
 #### My expertise includes many technologies and concepts:
 ## Front End:
