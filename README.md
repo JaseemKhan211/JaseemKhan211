@@ -2,7 +2,7 @@
 <p align="center">I am an undergraduate student pursuing a Bachelor of Computer Science at Sindh Madressatul Islam University (SMIU). I am a Software Developer with practical experience in developing ERP applications, finance applications, Help Desk Customer Care Centers, Customer Relationship Management (CRM) systems, Complaint Management Systems (CMS), and Asset Verification Tools.</p>
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I'm currently working on enhancing my skills in SQL, PL/SQL, JavaScript, ERP modules, ERP applications, Oracle APEX, and Oracle Database.
+- 🌱 I'm currently working on my skills in SQL, PL/SQL, JavaScript, ERP modules, ERP applications, Oracle APEX, and Oracle Database.
 - 🚀 I'm currently diving into a personal project where I'm learning and working with React JS, Node JS, Express JS, and MongoDB.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
