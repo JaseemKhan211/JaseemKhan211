@@ -37,5 +37,9 @@
 ✔ Git | GitHub <br />
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
-- 🚀 [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
+<p align="center">
+  - [MindMingle Quiz 🎮](https://medium.com/@jaseemkhandev)<br>
+  - [Complaint Management System 📝](https://medium.com/@jaseemkhandev)<br>
+  - [Todo App ✅](https://medium.com/@jaseemkhandev)
+</p>
 
