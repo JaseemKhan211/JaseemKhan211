@@ -2,8 +2,8 @@
 <p align="center">I am an undergraduate student pursuing a Bachelor of Computer Science at Sindh Madressatul Islam University (SMIU). I am a Software Developer with practical experience in developing ERP applications, finance applications, Help Desk Customer Care Centers, Customer Relationship Management (CRM) systems, Complaint Management Systems (CMS), and Asset Verification Tools.</p>
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I'm currently working in these skills SQL, PL/SQL, JavaScript, Oracle APEX and Oracle Database.
-- 🚀 I'm currently learning and working on my persolal project React JS, Node JS, Express JS and MongoDB
+- 🌱 I'm currently working on enhancing my skills in SQL, PL/SQL, JavaScript, ERP modules, ERP applications, Oracle APEX, and Oracle Database.
+- 🚀 I'm currently diving into a personal project where I'm learning and working with React JS, Node JS, Express JS, and MongoDB.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
 #### My expertise includes many technologies and concepts:
@@ -34,13 +34,4 @@
 ✔ Firebase - Authentication, Realtime, Firestore & Storage <br />
 ✔ Heroku, Now & firebase Hosting <br />
 ✔ Git | GitHub <br />
-
-### 📕 Blogs: 
-- [Effortless Integration of Node.js with Oracle Database and Oracle APEX RESTful API Services: A Practical Approach](https://medium.com/@jaseemkhandev/effortless-node-js-and-oracle-database-integration-a-practical-approach-45900e1f1834)
-- [Rest Parameters (‘…args’) vs ‘arguments’ in JavaScript](https://medium.com/@jaseemkhandev/rest-parameters-args-vs-arguments-in-javascript-eab0b2b5e3b9)
-- [Updating Package-Lock File: npm Warns of an Outdated Version](https://medium.com/@jaseemkhandev/updating-package-lock-file-npm-warns-of-an-outdated-version-a7aeb71bfbe5)
-- [10 Key Tips for Beginners Learning JavaScript](https://medium.com/@jaseemkhandev/10-key-tips-for-beginners-learning-javascript-971620d11e33)
-- [SQL Fundamental Concept](https://medium.com/@jaseemkhandev/sql-fundamental-concept-9677ad741060)
-- [Sweet Alert JavaScript Library With Oracle Apex](https://medium.com/@jskhan211/sweet-alert-javascript-library-with-oracle-apex-a8c082fa6e20)
-- [React vs. Angular: The Complete Comparison](https://medium.com/@jskhan211/react-vs-angular-the-complete-comparison-8b6ee68e4e8e)
 
