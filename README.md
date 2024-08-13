@@ -1,6 +1,7 @@
 <h1 align="center">Helllooo! I'm <a href="https://linktr.ee/jaseemkhandev">Jaseem Khan</a> 👋</h1>
 <p align="center">I am an undergraduate student pursuing a Bachelor of Computer Science at Sindh Madressatul Islam University (SMIU). I am a Software Developer with practical experience in developing ERP applications, finance applications, Help Desk Customer Care Centers, Customer Relationship Management (CRM) systems, Complaint Management Systems (CMS), and Asset Verification Tools. 
 </p>
+
 #### My expertise includes many technologies and concepts:
 ## Front End:
 ✔ JavaScript ES6 <br />
