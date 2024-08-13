@@ -37,5 +37,5 @@
 ✔ Git | GitHub <br />
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
-- 🚀 [MindMingle Quiz](https://medium.com/@jaseemkhandev)
+- 🚀 [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
