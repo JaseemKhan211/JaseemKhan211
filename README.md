@@ -37,7 +37,7 @@
 ✔ Git | GitHub <br />
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
-- MindMingle Quiz 
+- 🔭 MindMingle Quiz  
 - Complaint Managment System 
 - Todo App
 
