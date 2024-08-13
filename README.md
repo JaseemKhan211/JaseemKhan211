@@ -38,7 +38,4 @@
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
 - 🚀 [MindMingle Quiz](https://medium.com/@jaseemkhandev)
-- 🚀 [Complaint Managment System](https://medium.com/@jaseemkhandev)
-- 🚀 [Todo App](https://jaseemkhan211.github.io/TodoApp/)
-- 📝 [Todo App](https://jaseemkhan211.github.io/TodoApp/)
 
