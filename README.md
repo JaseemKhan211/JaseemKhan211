@@ -5,7 +5,6 @@
 - 🌱 I'm currently working on my skills in SQL, PL/SQL, JavaScript, ERP modules, ERP applications, Oracle APEX, and Oracle Database.
 - 🚀 I'm currently diving into a personal project where I'm learning and working with React JS, Node JS, Express JS, and MongoDB.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
-- - [**Todo App** ✅](https://medium.com/@jaseemkhandev)
 
 <h1 align="center">Core Competencies 🎯</h1>
 
@@ -39,45 +38,7 @@
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
 
-
-<ul>
-  <li>
-    <a href="https://medium.com/@jaseemkhandev">
-      <strong>MindMingle Quiz</strong> 🔄
-    </a>
-    <span style="
-      display: inline-block; 
-      animation: pulse 1s infinite;
-    "> *(In Progress with Dynamic Animations)*</span>
-  </li>
-  <li>
-    <a href="https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login">
-      <strong>Complaint Management System</strong> 🛠️
-    </a>
-  </li>
-  <li>
-    <a href="https://jaseemkhan211.github.io/TodoApp">
-      <strong>Todo App</strong> 🗂️
-    </a>
-    <span> *(Create, Read, Update, Delete)*</span>
-  </li>
-</ul>
-
-<style>
-@keyframes pulse {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.7;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-</style>
-
-- [**MindMingle Quiz**  🎮](https://medium.com/@jaseemkhandev)
+- [**MindMingle Quiz**  🔄](https://medium.com/@jaseemkhandev)
 - [**Complaint Management System**  🛠️](https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login)
 - [**Todo App** 🗂️](https://jaseemkhan211.github.io/TodoApp) *(Create, Read, Update, Delete)*
 
