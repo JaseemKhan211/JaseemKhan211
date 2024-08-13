@@ -6,7 +6,7 @@
 - 🚀 I'm currently diving into a personal project where I'm learning and working with React JS, Node JS, Express JS, and MongoDB.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
-#### My expertise includes many technologies and concepts:
+<h1 align="center">Core Competencies 🧠</h1>
 ## Front End:
 ✔ JavaScript ES6 <br />
 ✔ Ajax | jQuery (Initial Level) <br />
