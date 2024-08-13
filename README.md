@@ -7,6 +7,7 @@
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
 <h1 align="center">Core Competencies 🧠</h1>
+
 ## Front End:
 ✔ JavaScript ES6 <br />
 ✔ Ajax | jQuery (Initial Level) <br />
