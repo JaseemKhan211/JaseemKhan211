@@ -39,6 +39,6 @@
 <h1 align="center">Portfolio of Excellence 🏆</h1>
 
 - [**MindMingle Quiz** 🔄](https://medium.com/@jaseemkhandev) **In Progress with exciting updates!**
-- [**Complaint Management System (CMS)**  🛠️](https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login) **Enables students to submit complaints and helps the university manage and resolve issues efficiently**
+- [**Complaint Management System (CMS)**  🛠️](https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login) **Streamlines student complaints and improves issue resolution**
 - [**Todo App** 🗂️](https://jaseemkhan211.github.io/TodoApp) **Developed a Simple JavaScript Project Implementing Full CRUD Operations**
 
