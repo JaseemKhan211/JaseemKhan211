@@ -38,7 +38,7 @@
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
 
-- [**MindMingle Quiz** 🔄](https://medium.com/@jaseemkhandev) ![In Progress](link-to-your-animated-gif.gif) *(🚧 In Progress 🚧)*
+- [**MindMingle Quiz** 🔄](https://medium.com/@jaseemkhandev) **(🚧 In Progress 🚧)**
 - [**Complaint Management System**  🛠️](https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login)
 - [**Todo App** 🗂️](https://jaseemkhan211.github.io/TodoApp) *(Create, Read, Update, Delete)*
 
