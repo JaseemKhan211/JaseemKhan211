@@ -5,6 +5,7 @@
 - 🌱 I'm currently working on my skills in SQL, PL/SQL, JavaScript, ERP modules, ERP applications, Oracle APEX, and Oracle Database.
 - 🚀 I'm currently diving into a personal project where I'm learning and working with React JS, Node JS, Express JS, and MongoDB.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
+- - [**Todo App** ✅](https://medium.com/@jaseemkhandev)
 
 <h1 align="center">Core Competencies 🎯</h1>
 
