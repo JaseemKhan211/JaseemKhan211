@@ -40,6 +40,7 @@
 
 - [**MindMingle Quiz** 🔄](https://paws-and-sips-9ytbhzh.gamma.site) **In Progress with exciting updates!**
 - [**DineNear** 🍔](https://pup-arazzi-cafe-ri2056m.gamma.site) **In Progress with exciting updates!**
+- [**Student Information Portal** 🧑‍🎓](https://github.com/JaseemKhan211/student-info-portal) **is a Full Stack Application!**
 - [**Complaint Management System (CMS)**  🛠️](https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login) **Streamlines student complaints and improves issue resolution**
 - [**Pak Wheels Imported Cars Data Scrap** 🚗](https://github.com/JaseemKhan211/PakWheels-Imported-Cars-DataScrap) **Scraped data on imported cars for analysis**
 - [**Todo App** 🗂️](https://jaseemkhan211.github.io/TodoApp) **Developed a Simple JavaScript Project Implementing Full CRUD Operations**
