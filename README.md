@@ -22,19 +22,26 @@
 ✔ Node JS | Express JS (Mid Level) <br />
 ✔ RESTful API Services <br />
 ✔ Oracle APEX RESTful API Services <br />
-✔ MongoDB | Mongoose (Starting Level) <br />
+✔ MongoDB | Mongoose (Mid Level) <br />
 ✔ Strong understanding of SQL relational database design <br />
 ✔ Strong understanding of PLSQL tables and relationship hierarchy <br />
 ✔ Strong understanding of RDBMS, DBMS, and database commands DDL | DML | DCL | TCL | DQL <br />
 
 ## Mobile Development:
 ✔ React Native (Beginner Level) <br />
+✔ Flutter (Beginner Level) <br />
+
+## Software Architecture:
+✔ MVC - Model View Controller <br />
+✔ MVP - Model View Presenter <br />
+✔ MVVM - Model View View Model <br />
 
 ## Tools & Services:
 ✔ Google Maps, Facebook Authentication <br />
 ✔ Firebase - Authentication, Realtime, Firestore & Storage <br />
 ✔ Heroku, Now & firebase Hosting <br />
 ✔ Git | GitHub <br />
+✔ Proficient in Figma for UI/UX design and prototyping <br />
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
 
