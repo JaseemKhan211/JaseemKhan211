@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Software Developer.
 - 🌱 I'm currently working on SQL, No/SQL, PL/SQL, Oracle APEX, Oracle Database and JavaScript, React, Node, Express, MongoDB.
-- 🌱 I'm currently learning Microservices Architecture, Microfrontends, and CI/CD pipeline architecture.
+- 🌱 I'm currently learning Microservices Architecture, Microfrontends and CI/CD pipeline architecture.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
