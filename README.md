@@ -9,7 +9,7 @@
 <h1 align="center">Portfolio of Excellence 🏆</h1>
 
 - [**MindMingle Quiz** 🔄](https://paws-and-sips-9ytbhzh.gamma.site) **In Progress with exciting updates!**
-- [**DineNear** 🍔](https://pup-arazzi-cafe-ri2056m.gamma.site) **In Progress with exciting updates!**
+- [**DineNear** 🍔](https://pup-arazzi-cafe-ri2056m.gamma.site) **is a mobile application developed Flutter**
 - [**Student Information Portal** 🧑‍🎓](https://student-info-portal-five.vercel.app/) **is a Full Stack application**
 - [**Complaint Management System (CMS)**  🛠️](https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login) **Streamlines student complaints and improves issue resolution**
 - [**Pak Wheels Imported Cars Data Scrap** 🚗](https://github.com/JaseemKhan211/PakWheels-Imported-Cars-DataScrap) **Scraped data on imported cars for analysis**
