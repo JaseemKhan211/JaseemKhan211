@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for Mid-level Fullstack Engineer roles.
 - 🌱 I'm currently working on RDBMS, SQL, PL/SQL, Oracle and JavaScript, React, Node, Express and MongoDB.
-- 🌱 I'm currently learning Microservices Architecture, Microfrontends and CI/CD pipeline architecture.
+- 🌱 I'm currently learning diving deep into Data Structures, Microservices Architecture, Microfrontends, and CI/CD pipeline architecture.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
