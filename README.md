@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm <a href="https://linktr.ee/jaseemkhandev">Jaseem Khan</a> 👋</h1>
 <p align="center">I am a Software Developer, specializing in Full Stack development with over 3 years of experience.</p>
 
-- 🔭 I’m currently looking for Mide Level Fullstack Engineer roles.
+- 🔭 I’m currently looking for Mid-level Fullstack Engineer roles.
 - 🌱 I'm currently working on SQL, No/SQL, PL/SQL, Oracle and JavaScript, React, Node, Express, MongoDB.
 - 🌱 I'm currently learning Microservices Architecture, Microfrontends and CI/CD pipeline architecture.
 - 📝 I write articles on [Jaseem Khan - Medium](https://medium.com/@jaseemkhandev)
