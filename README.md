@@ -8,7 +8,6 @@
 
 <h1 align="center">Portfolio of Excellence 🏆</h1>
 
-- [**My Portfolio App** 👤](https://github.com/JaseemKhan211/my-portfolio-app.git)
 - [**MindMingle Quiz** 🔄](https://paws-and-sips-9ytbhzh.gamma.site)
 - [**DineNear App** 🍔](https://github.com/JaseemKhan211/DineNear-Frontend)
 - [**Student Information Portal** 🧑‍🎓](https://student-info-portal-five.vercel.app/)
