@@ -10,7 +10,7 @@
 
 - [**MindMingle Quiz** 🔄](https://paws-and-sips-9ytbhzh.gamma.site)
 - [**DineNear App** 🍔](https://github.com/JaseemKhan211/DineNear-Frontend)
-- [**Student Information Portal** 🧑‍🎓](https://student-info-portal-five.vercel.app/)
+- [**Student Information Portal** 🎓](https://student-info-portal-five.vercel.app/)
 - [**Complaint Management System (CMS)**  🛠️](https://apex.oracle.com/pls/apex/r/jasorcel/complaint-management-system-cms/login) 
 - [**Pak Wheels Imported Cars Data Scrap** 🚗](https://github.com/JaseemKhan211/PakWheels-Imported-Cars-DataScrap)
 - [**Todo App** 🗂️](https://jaseemkhan211.github.io/TodoApp)
