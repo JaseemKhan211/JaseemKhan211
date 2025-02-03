@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm <a href="https://linktr.ee/jaseemkhandev">Jaseem Khan</a> 👋</h1>
-<p align="center">I am a passionate Software Developer with expertise in Full Stack Development, crafting seamless and efficient solutions from front-end designs to robust back-end architectures.</p>
+<p align="center">Passionate Full Stack Developer creating seamless front-end and robust back-end solutions.</p>
 
-<h1 align="center">Portfolio of Excellence 🏆</h1>
+<h1 align="center">Projects of Excellence 🏆</h1>
 
 - [**MindMingle Quiz** 🔄](https://paws-and-sips-9ytbhzh.gamma.site)
 - [**DineNear App** 🍔](https://github.com/JaseemKhan211/DineNear-Frontend)
